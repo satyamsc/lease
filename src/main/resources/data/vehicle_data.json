@@ -1,0 +1,102 @@
+[
+  {
+    "brandName": "Volkswagen",
+    "modelNames": [
+      "Golf",
+      "Passat",
+      "Jetta",
+      "Tiguan",
+      "Polo"
+    ]
+  },
+  {
+    "brandName": "BMW (Bayerische Motoren Werke)",
+    "modelNames": [
+      "3 Series",
+      "5 Series",
+      "X3",
+      "X5",
+      "7 Series"
+    ]
+  },
+  {
+    "brandName": "Mercedes-Benz",
+    "modelNames": [
+      "C-Class",
+      "E-Class",
+      "S-Class",
+      "GLC",
+      "GLE"
+    ]
+  },
+  {
+    "brandName": "Audi",
+    "modelNames": [
+      "A4",
+      "A6",
+      "Q5",
+      "Q7",
+      "TT"
+    ]
+  },
+  {
+    "brandName": "Porsche",
+    "modelNames": [
+      "911",
+      "Cayenne",
+      "Macan",
+      "Panamera",
+      "Boxster"
+    ]
+  },
+  {
+    "brandName": "Mini",
+    "modelNames": [
+      "Cooper",
+      "Countryman",
+      "Clubman",
+      "Convertible",
+      "Hardtop"
+    ]
+  },
+  {
+    "brandName": "Opel",
+    "modelNames": [
+      "Corsa",
+      "Astra",
+      "Insignia",
+      "Mokka",
+      "Crossland X"
+    ]
+  },
+  {
+    "brandName": "Ford",
+    "modelNames": [
+      "Mustang",
+      "F-150",
+      "Focus",
+      "Explorer",
+      "Escape"
+    ]
+  },
+  {
+    "brandName": "Mercedes-AMG",
+    "modelNames": [
+      "C63 AMG",
+      "E63 AMG",
+      "GT",
+      "S63 AMG",
+      "GLE63 AMG"
+    ]
+  },
+  {
+    "brandName": "BMW M",
+    "modelNames": [
+      "M3",
+      "M5",
+      "X5 M",
+      "M4",
+      "X3 M"
+    ]
+  }
+]

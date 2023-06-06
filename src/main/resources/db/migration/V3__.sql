@@ -1,0 +1,4 @@
+
+ALTER TABLE vehicle MODIFY modelYear INT NOT NULL DEFAULT 0
+
+
